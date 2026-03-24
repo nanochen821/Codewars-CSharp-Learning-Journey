@@ -1,4 +1,4 @@
-/*
+/* 
  * [題目] Convert a String to a Number (8 kyu)
  * [連結] https://www.codewars.com/kata/544675c6f971f7399a000e79
  * ---------------------------------------------------
